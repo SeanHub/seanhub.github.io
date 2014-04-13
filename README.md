@@ -1,4 +1,4 @@
-seanhub.github.io
+SeanHub
 =================
 
 Who can resist a GitHub subdomain...
